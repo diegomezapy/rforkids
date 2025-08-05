@@ -1,0 +1,10 @@
+Package: rforkids
+Title: Aplicaciones estadísticas básicas para niños
+Version: 0.1.0
+Authors@R: person("Diego", "Meza", email = "tuemail@dominio.com", role = c("aut", "cre"))
+Description: Interfaz gráfica de escritorio en R para enseñar estadística básica a niños.
+Depends: R (>= 4.0)
+Imports: tcltk
+Encoding: UTF-8
+License: MIT
+LazyData: true
